@@ -2,7 +2,7 @@
 name: Future custom
 about: Héroes de Usuario .
 title: ''
-labels: ''
+labels: User-Story
 assignees: ''
 
 ---
